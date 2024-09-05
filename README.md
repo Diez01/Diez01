@@ -5,9 +5,9 @@
 <h2> Hola mundo, Soy Diego Zarazúa! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
 
 <p> 
-Soy alumno de la UAQ, cursando el séptimo semestre de la carrera de Ingeniería de Software.
-Apasionado por la tecnología, siempre estoy en constante búsqueda de aprendizaje y desarrollo profesional.
-En mis tiempos libres, disfruto leer sobre las últimas tendencias tecnológicas y compartir actividades al aire libre con amigos.
+<p>Soy alumno de la UAQ, cursando el séptimo semestre de la carrera de Ingeniería de Software.</p>
+<p>Apasionado por la tecnología, siempre estoy en constante búsqueda de aprendizaje y desarrollo profesional.</p>
+<p>En mis tiempos libres, disfruto leer sobre las últimas tendencias tecnológicas y compartir actividades al aire libre con amigos.</p>
 </p>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
